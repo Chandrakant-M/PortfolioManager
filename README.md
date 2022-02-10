@@ -8,6 +8,6 @@ display gains/losses quick visual snapshot.
 
 filter the stocks in the buying/selling range (redirect for taking the stock price inputs)
 
-filter Baba's stocks
+filter Baba's stocks and add saraswat demat account scrips
 
 diff between 2 holding files
